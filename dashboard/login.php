@@ -62,7 +62,7 @@ echo "This is login page";
                         <a href="../post.html">Sample Post.</a>
                     </li>
                     <li>
-                        <a href="../contact.html">Contact</a>
+                        <a href="../contact.html">Contact1</a>
                     </li>
                 </ul>
             </div>
